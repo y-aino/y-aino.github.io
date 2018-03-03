@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ja" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>yupon.jp</title>
+		<meta name="description" content="A set of morphing shape overlays with SVG" />
+		<meta name="keywords" content="shape, SVG, morphing, web development, web design, javascript" />
+		<meta name="author" content="Codrops" />
+		<link rel="shortcut icon" href="favicon.ico">
+		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400|Playfair+Display:400,700" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="css/shape.css" />
+		<link rel="stylesheet" type="text/css" href="css/my-shape.css" />
+		<link rel="stylesheet" type="text/css" href="css/common.css" />
+		<script>document.documentElement.className = 'js';</script>
+	</head>
+	<body class="demo-5">
+		<main class="main main--demo-5">
+			<div class="content content--demo-5">
+				<div class="hamburger hamburger--demo-5 js-hover">
+					<div class="hamburger__line hamburger__line--01">
+						<div class="hamburger__line-in hamburger__line-in--01 hamburger__line-in--demo-5"></div>
+					</div>
+					<div class="hamburger__line hamburger__line--02">
+						<div class="hamburger__line-in hamburger__line-in--02 hamburger__line-in--demo-5"></div>
+					</div>
+					<div class="hamburger__line hamburger__line--03">
+						<div class="hamburger__line-in hamburger__line-in--03 hamburger__line-in--demo-5"></div>
+					</div>
+					<div class="hamburger__line hamburger__line--cross01">
+						<div class="hamburger__line-in hamburger__line-in--cross01 hamburger__line-in--demo-5"></div>
+					</div>
+					<div class="hamburger__line hamburger__line--cross02">
+						<div class="hamburger__line-in hamburger__line-in--cross02 hamburger__line-in--demo-5"></div>
+					</div>
+				</div>
+
+				<!-- index -->
+				<section class="main-box home">
+					<h1 class="page-title">yupon.jp</h1>
+				</section>
+
+				<!-- about -->
+				<section class="main-box about">
+					<h1 class="page-title">About</h1>
+					<p>Hi! I'm Yusuke Takayanagi.</p>
+					<p>Web Designer &amp; Creater.</p>
+				</section>
+
+				<!-- products -->
+				<section class="main-box products">
+					<h1 class="page-title">Products</h1>
+					<ul class="product-list">
+						<li>
+							<a href="">
+								<figure>
+									<div class="product-image">
+										<iframe src="https://www.youtube.com/embed/ImhfIv5NSqY?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" 
+											frameborder="0" 
+											allow="autoplay; encrypted-media" 
+											allowfullscreen>
+										</iframe>
+									</div>
+									<figcaption>
+										Mayucy 1
+									</figcaption>
+								</figure>
+							</a>
+						</li>
+						<li>
+							<a href="">
+								<figure>
+									<div class="product-image">
+										<iframe src="https://www.youtube.com/embed/ImhfIv5NSqY?rel=0&amp;controls=0&amp;showinfo=0" 
+											frameborder="0" 
+											allow="autoplay; encrypted-media" 
+											allowfullscreen>
+										</iframe>
+									</div>
+									<figcaption>
+										Mayucy 2
+									</figcaption>
+								</figure>
+							</a>
+						</li>
+						<li>
+							<a href="">
+								<figure>
+									<div class="product-image">
+										<iframe src="https://www.youtube.com/embed/ImhfIv5NSqY?rel=0&amp;controls=0&amp;showinfo=0" 
+											frameborder="0" 
+											allow="autoplay; encrypted-media" 
+											allowfullscreen>
+										</iframe>
+									</div>
+									<figcaption>
+										Mayucy 3
+									</figcaption>
+								</figure>
+							</a>
+						</li>
+					</ul>
+				</section>
+
+				<!-- contact -->
+				<section class="main-box contact">
+					<h1 class="page-title">Contact</h1>
+					<div class="main-content">
+						<a href="mailto:feelsogood561@gmail.com">&#x1f4e7;Mail</a>
+					</div>
+				</section>	
+
+				<div class="global-menu">
+					<div class="global-menu__wrap">
+						<a class="global-menu__item global-menu__item--demo-5" href="./index.html" data-link="home">Home</a>
+						<a class="global-menu__item global-menu__item--demo-5" href="./about.html" data-link="about">About</a>
+						<a class="global-menu__item global-menu__item--demo-5" href="./products.html" data-link="products">Products</a>
+						<a class="global-menu__item global-menu__item--demo-5" href="./contact.html" data-link="contact">Contact</a>
+					</div>
+				</div>
+				<svg class="shape-overlays" viewBox="0 0 100 100" preserveAspectRatio="none">
+					<path class="shape-overlays__path"></path>
+					<path class="shape-overlays__path"></path>
+				</svg>
+			</div>
+		</main>
+		<script src="js/common.js"></script>
+		<script src="js/easings.js"></script>
+		<script src="js/index.js"></script>
+	</body>
+</html>

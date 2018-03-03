@@ -1,0 +1,54 @@
+.main-box{
+    width: 100vw;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.main-box > * {
+    opacity: 0;
+    transform: translateY(-100%);
+    pointer-events: none;
+
+    display: block;
+
+    transition: transform .8s, opacity .8s;
+    transition-timing-function: ease-in;
+}
+
+.main-box.active {
+    position: absolute;
+}
+
+.main-box .is-opened {
+	opacity: 1;
+	transform: translateX(0) rotate(0) scale(1)!important;
+	pointer-events: auto;
+	transition-timing-function: ease;
+}
+
+.main-box > *:nth-child(odd) {
+	transform: translateX(100%) rotate(10deg) scale(0.5);
+}
+
+.main-box > *:nth-child(even) {
+	transform: translateX(100%) rotate(-10deg) scale(0.5);
+}
+.shape-overlays {
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
