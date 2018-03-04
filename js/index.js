@@ -104,23 +104,30 @@ class ShapeOverlays {
 
   // Nav Event Listener
   const mainBoxes = document.querySelectorAll('.main-box');
+
   for(let val of gNavItems){
-    // ナビゲーションにイベントをハンドル
     val.addEventListener('click', (e) => {
       event.preventDefault();
       // メニュー処理
       elmHamburger.click();
+
+      // アクティブなコンテンツのみ表示
       for(let mainBox of mainBoxes){
         let boxItems = mainBox.querySelectorAll(':scope > *'); // :scope 親要素の疑似セレクタ
-        // 配列リテラル
+        // クリックされたリンクの判別
         if ([...mainBox.classList].includes(e.target.dataset.link)) {
+          // parent
           mainBox.classList.add('active');
+          mainBox.parentNode.style.minHeight = `${mainBox.scrollHeight}px`; // min-height
+          // children
           for(let item of boxItems){
             item.classList.add('is-opened');
           }
         } else {
+          // parent
+          mainBox.classList.remove('active');
+          // children
           for(let item of boxItems){
-            mainBox.classList.remove('active');
             item.classList.remove('is-opened');
           }
         }
