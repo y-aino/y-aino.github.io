@@ -104,6 +104,7 @@ class ShapeOverlays {
 
   // Nav Event Listener
   const mainBoxes = document.querySelectorAll('.main-box');
+  const homeBG = document.querySelector('.home-bg');
 
   for(let val of gNavItems){
     val.addEventListener('click', (e) => {
@@ -116,6 +117,11 @@ class ShapeOverlays {
         let boxItems = mainBox.querySelectorAll(':scope > *'); // :scope 親要素の疑似セレクタ
         // クリックされたリンクの判別
         if ([...mainBox.classList].includes(e.target.dataset.link)) {
+          if(e.target.dataset.link === 'home'){
+            homeBG.classList.remove('is-hidden');
+          }else{
+            homeBG.classList.add('is-hidden');
+          }
           // parent
           mainBox.classList.add('active');
           mainBox.parentNode.style.minHeight = `${mainBox.scrollHeight}px`; // min-height
