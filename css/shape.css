@@ -699,7 +699,7 @@ a.demo--current {
 	}
 }
 
-@media screen and (max-width: 55em) {
+@media screen and (-width: 55em) {
 	html,
 	body {
 		overflow-x: hidden;

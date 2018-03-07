@@ -1,0 +1,577 @@
+
+
+.screen5 {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 667px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.screen5 .buttom {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 241px;
+  height              : 32px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 16px;
+}
+.screen5 .view1 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 285px;
+  height              : 32px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 16px;
+}
+.screen5 .view2 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 328px;
+  height              : 32px;
+  width               : 127px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-radius       : 16px;
+}
+.screen5 .view3 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 241px;
+  height              : 32px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  border-radius       : 16px;
+}
+.screen5 .view4 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 285px;
+  height              : 32px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 177px;
+  border-radius       : 16px;
+}
+.screen5 .view5 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 328px;
+  height              : 32px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+  border-radius       : 16px;
+}
+.screen5 .view6 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 241px;
+  height              : 32px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 207px;
+  border-radius       : 16px;
+}
+.screen5 .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 294px;
+  height              : auto;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.screen5 .label2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 251px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.screen5 .label3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 251px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.screen5 .label4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 295px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 195px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.screen5 .copy {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 338px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.screen5 .copy2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 250px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 227px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.screen5 .photoarea {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 417px;
+  height              : 130px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.screen5 .image1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 417px;
+  height              : 130px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 119px;
+}
+.screen5 .image2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 417px;
+  height              : 130px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 227px;
+}
+.screen5 .image3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 417px;
+  height              : 130px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 335px;
+}
+.screen5 .label5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 555px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(37, 37, 37, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen5 .label6 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 555px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 119px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(37, 37, 37, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen5 .label7 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 555px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 227px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(37, 37, 37, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen5 .copy3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 555px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 335px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(37, 37, 37, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen5 .label8 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 390px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  font-family         : "HiraginoSans-W4", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(37, 37, 37, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.screen5 .label9 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 211px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  font-family         : "HiraginoSans-W4", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(37, 37, 37, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.screen5 .sectionbar {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 372px;
+  height              : 2px;
+  width               : 353px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.screen5 .section-bar-copy {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 71px;
+  height              : 3px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+}
+.screen5 .header {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : 54px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen5 .header .headerarea {
+  background          : rgba(250, 250, 250, 1.0);
+  top                 : 0px;
+  height              : 54px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen5 .header .label10 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  font-family         : "HiraginoSans-W4", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(37, 37, 37, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.screen5 .rectangle3 {
+  background          : rgba(242, 242, 242, 1.0);
+  top                 : 84px;
+  height              : 108px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen5 .nav {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 620px;
+  height              : 47px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen5 .nav .navarea {
+  background          : rgba(250, 250, 250, 1.0);
+  top                 : 0px;
+  height              : 47px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  opacity             : 0.95;
+}
+.screen5 .nav .view7 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 36px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 311px;
+}
+.screen5 .nav .view7 .label11 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 10.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.screen5 .nav .view7 .conficon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.screen5 .nav .view8 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 36px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 219px;
+}
+.screen5 .nav .view8 .label12 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 10.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.screen5 .nav .view8 .coin-icon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.screen5 .nav .view9 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 8px;
+  height              : 35px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 128px;
+}
+.screen5 .nav .view9 .label13 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 10.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.screen5 .nav .view9 .post-icon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.screen5 .nav .view10 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 36px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+}
+.screen5 .nav .view10 .label14 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W4", Helvetica, Arial, serif;
+  font-size           : 10.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.screen5 .nav .view10 .flyer-icon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

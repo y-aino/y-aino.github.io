@@ -1,0 +1,515 @@
+
+
+.screen3 {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 667px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.screen3 .flyers {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : 506px;
+  width               : 353px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.screen3 .flyers .flyer4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 264px;
+  height              : 242px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+}
+.screen3 .flyers .flyer4 .takeshi {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 229px;
+  height              : auto;
+  width               : 115px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.screen3 .flyers .flyer4 .photoarea {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 224px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen3 .flyers .flyer3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 234px;
+  height              : 248px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen3 .flyers .flyer3 .copy3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 234px;
+  height              : auto;
+  width               : 115px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.screen3 .flyers .flyer3 .image1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 230px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen3 .flyers .flyer2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 242px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+}
+.screen3 .flyers .flyer2 .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 229px;
+  height              : auto;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.screen3 .flyers .flyer2 .image2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 224px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen3 .flyers .flyer1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 212px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen3 .flyers .flyer1 .a80-off {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 199px;
+  height              : auto;
+  width               : 125px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.screen3 .flyers .flyer1 .image3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 194px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen3 .nav {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 620px;
+  height              : 47px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen3 .nav .navarea {
+  background          : rgba(250, 250, 250, 1.0);
+  top                 : 0px;
+  height              : 47px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  opacity             : 0.95;
+}
+.screen3 .nav .view1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 36px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 311px;
+}
+.screen3 .nav .view1 .label2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 10.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.screen3 .nav .view1 .conficon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.screen3 .nav .view2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 36px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 219px;
+}
+.screen3 .nav .view2 .label3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 10.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.screen3 .nav .view2 .coin-icon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.screen3 .nav .view3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 8px;
+  height              : 35px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 128px;
+}
+.screen3 .nav .view3 .label4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 10.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.screen3 .nav .view3 .post-icon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.screen3 .nav .view4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : 36px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+}
+.screen3 .nav .view4 .label5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "HiraginoSans-W4", Helvetica, Arial, serif;
+  font-size           : 10.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.screen3 .nav .view4 .flyer-icon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.screen3 .carousel {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 29px;
+  height              : 36px;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.screen3 .carousel .cal1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 80px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen3 .carousel .cal1 .buttom {
+  background          : rgba(249, 205, 52, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 80px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 18px;
+}
+.screen3 .carousel .cal1 .label6 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  font-family         : "HiraginoSans-W5", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.screen3 .carousel .cal2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 32px;
+  width               : 80px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+}
+.screen3 .carousel .cal2 .label7 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  font-family         : "HiraginoSans-W5", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.screen3 .carousel .cal3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 32px;
+  width               : 80px;
+  position            : absolute;
+  margin              : 0;
+  left                : 160px;
+}
+.screen3 .carousel .cal3 .label8 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  font-family         : "HiraginoSans-W5", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.screen3 .carousel .cal4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 32px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 240px;
+}
+.screen3 .carousel .cal4 .label9 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 9px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "HiraginoSans-W5", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.screen3 .carousel .cal5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 32px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 325px;
+}
+.screen3 .carousel .cal5 .label10 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  font-family         : "HiraginoSans-W5", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

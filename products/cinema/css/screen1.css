@@ -1,0 +1,556 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400');
+
+
+.screen1 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 2000px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(40, 43, 52, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.screen1 .nav {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 106px;
+  height              : 475px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+}
+.screen1 .nav .view1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 456px;
+  height              : 19px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view1 .icon08 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view1 .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen1 .nav .view2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 387px;
+  height              : 22px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view2 .icon07 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view2 .label2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen1 .nav .view3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 320px;
+  height              : 21px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view3 .icon06 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view3 .label3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen1 .nav .view4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 190px;
+  height              : 17px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view4 .icon04 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view4 .label4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen1 .nav .view5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 253px;
+  height              : 21px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view5 .icon05 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view5 .label5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen1 .nav .view6 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 129px;
+  height              : 15px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view6 .icon03 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : 14px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view6 .label6 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen1 .nav .view7 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 64px;
+  height              : 19px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view7 .icon02 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view7 .label7 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen1 .nav .view8 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view8 .icon01 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .nav .view8 .label8 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen1 .h1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 121px;
+  height              : 30px;
+  width               : 116px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+}
+.screen1 .h1 .text {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.screen1 .h1 .rectangle3 {
+  background          : rgba(255, 0, 120, 1.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .header {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 240px;
+}
+.screen1 .header .rectangle3-copy {
+  background          : rgba(27, 27, 32, 1.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .header .label9 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1086px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen1 .header .label10 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 926px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen1 .logo {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 16px;
+  height              : 46px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+}
+.screen1 .logo .title {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+}
+.screen1 .logo .title .h-al {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 7.5px;
+  line-height         : 23.0px;
+}
+.screen1 .logo .title .c-inema {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 7.5px;
+  line-height         : 23.0px;
+}
+.screen1 .logo .image1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 4px;
+  height              : 39px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .footer {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1954px;
+  height              : 18px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 743px;
+}
+.screen1 .footer .a2017-halcinema-rmk {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.screen1 .ameri {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 191px;
+  height              : 360px;
+  width               : 640px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

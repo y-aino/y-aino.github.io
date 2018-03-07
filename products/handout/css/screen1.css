@@ -1,0 +1,230 @@
+
+
+.screen1 {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 667px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.screen1 .group {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 334px;
+  height              : 50px;
+  width               : 353px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.screen1 .group .buttom {
+  background          : rgba(249, 205, 52, 1.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 353px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+}
+.screen1 .group .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  font-family         : "HiraginoSans-W7", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.screen1 .label2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 215px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(228, 228, 220, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.screen1 .label3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 272px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 128px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(228, 228, 220, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.screen1 .text {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 154px;
+  height              : 30px;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 135px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(228, 228, 220, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+  border              : 0;
+}
+.screen1 .text::placeholder {
+  color               : rgba(228, 228, 220, 0.6);
+}
+.screen1 .batuicon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : 19px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 335px;
+}
+.screen1 .batuicon .stroke23 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .batuicon .stroke25 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.screen1 .border {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 186px;
+  height              : 2px;
+  width               : 353px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.screen1 .image1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 239px;
+  height              : 2px;
+  width               : 353px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+.screen1 .border-copy {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 300px;
+  height              : 2px;
+  width               : 353px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

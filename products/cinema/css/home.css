@@ -1,0 +1,2389 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400');
+
+
+.home {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 2500px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(40, 43, 52, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.home .footer {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2454px;
+  height              : 18px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 743px;
+}
+.home .footer .a2017-halcinema-rmk {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .topic-list {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1623px;
+  height              : 618px;
+  width               : 940px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+}
+.home .topic-list .topic {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 289px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .topic-list .topic .a20171131 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 271px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 174, 195, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.home .topic-list .topic .label1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 233px;
+  height              : auto;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .topic-list .topic .view1 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .topic-list .topic .view1 .mask {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+}
+.home .topic-list .topic .view1 .a20171115120904 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -7px;
+  height              : 204px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : -11px;
+}
+.home .topic-list .topic .category {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 200px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .topic-list .topic .category .rectangle3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .topic-list .topic .category .label2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : auto;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.home .topic-list .topic-copy3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 329px;
+  height              : 289px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .topic-list .topic-copy3 .label3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 271px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 174, 195, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.home .topic-list .topic-copy3 .label4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 233px;
+  height              : auto;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .topic-list .topic-copy3 .view2 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .topic-list .topic-copy3 .view2 .view3 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+}
+.home .topic-list .topic-copy3 .view2 .image1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -7px;
+  height              : 204px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : -11px;
+}
+.home .topic-list .topic-copy3 .view4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 200px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .topic-list .topic-copy3 .view4 .view5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .topic-list .topic-copy3 .view4 .label5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : auto;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.home .topic-list .topic-copy {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 289px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 659px;
+}
+.home .topic-list .topic-copy .label6 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 271px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 174, 195, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.home .topic-list .topic-copy .label7 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 233px;
+  height              : auto;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .topic-list .topic-copy .view6 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .topic-list .topic-copy .view6 .view7 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+}
+.home .topic-list .topic-copy .view6 .image2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -7px;
+  height              : 204px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : -11px;
+}
+.home .topic-list .topic-copy .view8 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 200px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .topic-list .topic-copy .view8 .view9 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .topic-list .topic-copy .view8 .label8 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : auto;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.home .topic-list .topic-copy4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 329px;
+  height              : 289px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 659px;
+}
+.home .topic-list .topic-copy4 .label9 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 271px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 174, 195, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.home .topic-list .topic-copy4 .label10 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 233px;
+  height              : auto;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .topic-list .topic-copy4 .view10 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .topic-list .topic-copy4 .view10 .view11 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+}
+.home .topic-list .topic-copy4 .view10 .image3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -7px;
+  height              : 204px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : -11px;
+}
+.home .topic-list .topic-copy4 .view12 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 200px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .topic-list .topic-copy4 .view12 .view13 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .topic-list .topic-copy4 .view12 .label11 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : auto;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.home .topic-list .topic-copy2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 289px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 330px;
+}
+.home .topic-list .topic-copy2 .label12 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 271px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 174, 195, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.home .topic-list .topic-copy2 .label13 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 233px;
+  height              : auto;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .topic-list .topic-copy2 .view14 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .topic-list .topic-copy2 .view14 .view15 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+}
+.home .topic-list .topic-copy2 .view14 .image4 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -7px;
+  height              : 204px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : -11px;
+}
+.home .topic-list .topic-copy2 .view16 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 200px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .topic-list .topic-copy2 .view16 .view17 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .topic-list .topic-copy2 .view16 .label14 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : auto;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.home .topic-list .view18 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 329px;
+  height              : 289px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 330px;
+}
+.home .topic-list .view18 .label15 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 271px;
+  height              : auto;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 174, 195, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.home .topic-list .view18 .label16 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 233px;
+  height              : auto;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .topic-list .view18 .view19 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .topic-list .view18 .view19 .view20 {
+  background          : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 190px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+}
+.home .topic-list .view18 .view19 .image5 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -7px;
+  height              : 204px;
+  width               : 303px;
+  position            : absolute;
+  margin              : 0;
+  left                : -11px;
+}
+.home .topic-list .view18 .view21 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 200px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .topic-list .view18 .view21 .view22 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .topic-list .view18 .view21 .label17 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : auto;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.home .news-nav {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1550px;
+  height              : 33px;
+  width               : 940px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+}
+.home .news-nav .rectangle2 {
+  background          : rgba(30, 33, 37, 1.0);
+  top                 : 30px;
+  height              : 3px;
+  width               : 940px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .news-nav .rectangle2-copy {
+  background          : rgba(255, 0, 120, 1.0);
+  top                 : 30px;
+  height              : 3px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .news-nav .view23 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 3px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 130px;
+}
+.home .news-nav .rectangle2-copy2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 30px;
+  height              : 3px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 260px;
+}
+.home .news-nav .label18 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .news-nav .label19 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 168px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .news-nav .label20 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 297px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 665px;
+  height              : 800px;
+  width               : 940px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+}
+.home .eiga-list .view24 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 380px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.home .eiga-list .view24 .eiga {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .eiga-list .view24 .eiga .image6 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .eiga-list .view24 .eiga .a71x4-epe93-lsx342 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -12px;
+  height              : 308px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+}
+.home .eiga-list .view24 .buttom {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 342px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.home .eiga-list .view24 .buttom .label21 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view24 .buttom .box {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .eiga-list .view24 .label22 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 292px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view24 .a20170616 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view24 .a148 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view25 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 422px;
+  height              : 380px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.home .eiga-list .view25 .view26 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .eiga-list .view25 .view26 .image7 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .eiga-list .view25 .view26 .image8 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -12px;
+  height              : 308px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+}
+.home .eiga-list .view25 .view27 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 342px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.home .eiga-list .view25 .view27 .label23 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view25 .view27 .view28 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .eiga-list .view25 .label24 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 292px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view25 .label25 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view25 .label26 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view29 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 380px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 744px;
+}
+.home .eiga-list .view29 .view30 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .eiga-list .view29 .view30 .image9 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .eiga-list .view29 .view30 .image10 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -12px;
+  height              : 308px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+}
+.home .eiga-list .view29 .view31 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 342px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.home .eiga-list .view29 .view31 .label27 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view29 .view31 .view32 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .eiga-list .view29 .label28 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 292px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view29 .label29 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view29 .label30 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view33 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 422px;
+  height              : 380px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 744px;
+}
+.home .eiga-list .view33 .view34 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .eiga-list .view33 .view34 .image11 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .eiga-list .view33 .view34 .image12 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -12px;
+  height              : 308px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+}
+.home .eiga-list .view33 .view35 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 342px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.home .eiga-list .view33 .view35 .label31 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view33 .view35 .view36 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .eiga-list .view33 .label32 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 292px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view33 .label33 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view33 .label34 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view37 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 380px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 251px;
+}
+.home .eiga-list .view37 .view38 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .eiga-list .view37 .view38 .image13 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .eiga-list .view37 .view38 .image14 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -12px;
+  height              : 308px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+}
+.home .eiga-list .view37 .view39 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 342px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.home .eiga-list .view37 .view39 .label35 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view37 .view39 .view40 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .eiga-list .view37 .label36 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 292px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view37 .label37 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view37 .label38 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view41 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 422px;
+  height              : 380px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 251px;
+}
+.home .eiga-list .view41 .view42 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .eiga-list .view41 .view42 .image15 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .eiga-list .view41 .view42 .image16 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -12px;
+  height              : 308px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+}
+.home .eiga-list .view41 .view43 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 342px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.home .eiga-list .view41 .view43 .label39 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view41 .view43 .view44 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .eiga-list .view41 .label40 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 292px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view41 .label41 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view41 .label42 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view45 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 380px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 497px;
+}
+.home .eiga-list .view45 .view46 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .eiga-list .view45 .view46 .image17 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .eiga-list .view45 .view46 .image18 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -12px;
+  height              : 308px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+}
+.home .eiga-list .view45 .view47 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 342px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.home .eiga-list .view45 .view47 .label43 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view45 .view47 .view48 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .eiga-list .view45 .label44 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 292px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view45 .label45 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view45 .label46 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view49 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 422px;
+  height              : 380px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 497px;
+}
+.home .eiga-list .view49 .view50 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .eiga-list .view49 .view50 .image19 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .eiga-list .view49 .view50 .image20 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -12px;
+  height              : 308px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+}
+.home .eiga-list .view49 .view51 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 342px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+}
+.home .eiga-list .view49 .view51 .label47 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 0, 120, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view49 .view51 .view52 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 0, 120, 1.0);
+}
+.home .eiga-list .view49 .label48 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 292px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.home .eiga-list .view49 .label49 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .eiga-list .view49 .label50 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .sab-nav {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 592px;
+  height              : 33px;
+  width               : 940px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+}
+.home .sab-nav .view53 {
+  background          : rgba(30, 33, 37, 1.0);
+  top                 : 31px;
+  height              : 3px;
+  width               : 940px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .sab-nav .view54 {
+  background          : rgba(255, 0, 120, 1.0);
+  top                 : 31px;
+  height              : 3px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .sab-nav .view55 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 31px;
+  height              : 3px;
+  width               : 130px;
+  position            : absolute;
+  margin              : 0;
+  left                : 130px;
+}
+.home .sab-nav .view56 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 31px;
+  height              : 3px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 260px;
+}
+.home .sab-nav .label51 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .sab-nav .label52 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 167px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .sab-nav .label53 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 290px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(156, 174, 194, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .image-header {
+  background          : rgba(255, 255, 255, 1.0);
+  top                 : 181px;
+  height              : 360px;
+  width               : 940px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  border-radius       : 3px;
+  overflow            : hidden;
+}
+.home .image-header .view57 {
+  background          : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 360px;
+  width               : 940px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+}
+.home .image-header .lolgames {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : -65px;
+  height              : 529px;
+  width               : 940px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .h1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 121px;
+  height              : 30px;
+  width               : 68px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+}
+.home .h1 .text {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  font-family         : "HiraginoSans-W3", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.home .h1 .view58 {
+  background          : rgba(255, 0, 120, 1.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .header {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 240px;
+}
+.home .header .rectangle3-copy {
+  background          : rgba(27, 27, 32, 1.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .header .label54 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1086px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .header .label55 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 926px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .nav {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 106px;
+  height              : 475px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+}
+.home .nav .view59 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 456px;
+  height              : 19px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view59 .icon08 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view59 .label56 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .nav .view60 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 387px;
+  height              : 22px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view60 .icon07 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view60 .label57 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .nav .view61 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 320px;
+  height              : 21px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view61 .icon06 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view61 .label58 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 3px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .nav .view62 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 190px;
+  height              : 17px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view62 .icon04 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view62 .label59 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .nav .view63 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 253px;
+  height              : 21px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view63 .icon05 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view63 .label60 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .nav .view64 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 129px;
+  height              : 15px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view64 .icon03 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : 14px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view64 .label61 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .nav .view65 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 64px;
+  height              : 19px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view65 .icon02 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view65 .label62 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .nav .view66 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view66 .icon01 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.home .nav .view66 .label63 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.home .logo {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 16px;
+  height              : 46px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+}
+.home .logo .title {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+}
+.home .logo .title .h-al {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 7.5px;
+  line-height         : 23.0px;
+}
+.home .logo .title .c-inema {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 7.5px;
+  line-height         : 23.0px;
+}
+.home .logo .image21 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 4px;
+  height              : 39px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
